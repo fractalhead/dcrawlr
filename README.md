@@ -1,2 +1,2 @@
 # dcrawlr
-A simple dungeon crawler based on a game I created over 10 years ago in a Windows 98 as I was teaching myself to program the Win32 API.
+A super simple dungeon crawler where you can push blocks around and into pits. It's based on a game I created, over 10 years ago, on Windows 98, as I was teaching myself to program the Win32 API. Initial development consists of converting the C++ code into MonkeyX. After that, the code will be optimized and use OOP, something I didn't know about... I was in the process of taking a C class when I created it, so everyting was stored in variables and arrays.
